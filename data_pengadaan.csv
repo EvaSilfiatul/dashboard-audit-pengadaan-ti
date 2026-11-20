@@ -1,0 +1,125 @@
+id_pengadaan,tgl_pr,tgl_po,tgl_terima,pemohon,penyetuju,vendor,kategori,nilai_estimasi,nilai_kontrak,metode,jumlah_penawaran,ada_kontrak,ada_bast,status_persetujuan
+PO-001,2026-08-26,2026-09-02,2026-09-10,Budi,Kepala IT,PT Jaya Teknologi,Printer,19977710,20304403,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-002,2026-04-10,2026-04-19,2026-05-12,Budi,Direktur,CV Mitra Digital,Laptop,46528536,43990631,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-003,2026-04-10,2026-05-04,2026-05-21,Budi,Direktur,PT Nusa Network,Lisensi Software,215339573,213902587,Tender,2,Ya,Ya,Disetujui
+PO-004,2026-08-19,2026-09-11,2026-10-06,Dewi,,CV Mitra Digital,Switch/Router,42297776,41025920,Tender,3,Ya,Ya,Belum Disetujui
+PO-005,2026-09-08,2026-09-15,2026-10-08,Budi,Manajer Umum,CV Karya Komputer,Printer,7169609,7196888,Tender,2,Ya,Ya,Disetujui
+PO-006,2026-09-25,2026-10-16,2026-11-08,Dewi,Kepala IT,PT Jaya Teknologi,Lisensi Software,74409965,72658996,Penunjukan Langsung,4,Tidak,Ya,Disetujui
+PO-007,2026-07-04,2026-07-20,2026-07-29,Andi,Manajer Umum,PT Jaya Teknologi,CCTV,74140181,70743791,Tender,3,Ya,Ya,Disetujui
+PO-008,2026-04-24,2026-05-09,2026-05-26,Dewi,Manajer Umum,PT Nusa Network,Switch/Router,118766770,124326502,Tender,3,Ya,Ya,Disetujui
+PO-009,2026-08-24,2026-08-29,2026-09-14,Eko,Direktur,PT Nusa Network,Lisensi Software,110373838,106000246,Penunjukan Langsung,1,Ya,Ya,Disetujui
+PO-010,2026-08-29,2026-09-19,2026-10-07,Eko,Manajer Umum,PT Nusa Network,Switch/Router,135732884,124839285,Tender,4,Ya,Ya,Disetujui
+PO-011,2026-01-18,2026-01-24,2026-02-08,Eko,Direktur,PT Nusa Network,Lisensi Software,75837171,109963898,Tender,3,Ya,Ya,Disetujui
+PO-012,2026-10-03,2026-10-25,2026-11-14,Citra,Direktur,PT Jaya Teknologi,Printer,14715914,13328329,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-013,2026-09-16,2026-09-21,2026-10-07,Eko,Kepala IT,CV Mitra Digital,Laptop,14791390,13379589,Penunjukan Langsung,3,Ya,Tidak,Disetujui
+PO-014,2026-03-24,2026-04-11,2026-05-07,Budi,Direktur,PT Data Prima,Switch/Router,116652640,115316226,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-015,2026-06-15,2026-07-04,2026-07-28,Eko,Manajer Umum,CV Mitra Digital,Printer,10133678,9128182,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-016,2026-09-28,2026-10-12,2026-10-21,Dewi,Kepala IT,PT Jaya Teknologi,Printer,8913848,9082797,Tender,2,Ya,Ya,Disetujui
+PO-017,2026-09-04,2026-09-19,2026-10-18,Budi,Kepala IT,PT Sinar Solusi,Laptop,14595461,15211661,Tender,2,Ya,Ya,Disetujui
+PO-018,2026-09-13,2026-10-05,2026-10-29,Dewi,Manajer Umum,CV Mitra Digital,Server,380794080,372483219,Pembelian Langsung,3,Ya,Ya,Belum Disetujui
+PO-019,2026-03-15,2026-03-27,2026-04-06,Citra,Manajer Umum,PT Jaya Teknologi,Switch/Router,100910383,91859459,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-020,2026-09-19,2026-10-13,2026-10-26,Budi,Manajer Umum,PT Jaya Teknologi,CCTV,104268866,103689478,Tender,3,Ya,Ya,Disetujui
+PO-021,2026-06-20,2026-06-25,2026-07-19,Dewi,Direktur,PT Nusa Network,Switch/Router,50309288,51618603,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-022,2026-03-11,2026-03-27,2026-04-12,Dewi,Kepala IT,PT Jaya Teknologi,Switch/Router,51227017,49683855,Tender,2,Ya,Ya,Disetujui
+PO-023,2026-08-28,2026-09-02,2026-09-30,Eko,Direktur,CV Karya Komputer,Laptop,54342490,54858656,Penunjukan Langsung,4,Ya,Ya,Disetujui
+PO-024,2026-05-06,2026-05-09,2026-05-21,Budi,Direktur,PT Jaya Teknologi,CCTV,74099351,67026073,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-025,2026-02-06,2026-02-23,2026-03-04,Andi,Manajer Umum,PT Sinar Solusi,Server,131423272,121553604,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-026,2026-03-12,2026-03-19,2026-04-12,Citra,Citra,PT Data Prima,Lisensi Software,203222347,201517844,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-027,2026-08-28,2026-09-06,2026-09-16,Andi,Kepala IT,PT Data Prima,Printer,19808516,18833917,Tender,3,Ya,Ya,Disetujui
+PO-028,2026-08-24,2026-09-12,2026-10-06,Eko,Manajer Umum,PT Nusa Network,Lisensi Software,215741422,198346340,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-029,2026-01-19,2026-02-04,2026-03-03,Eko,Direktur,PT Jaya Teknologi,Server,203549481,203382310,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-030,2026-04-12,2026-04-15,2026-05-03,Dewi,Manajer Umum,PT Nusa Network,Server,448730596,414728865,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-031,2026-10-10,2026-10-27,2026-11-16,Andi,Manajer Umum,PT Jaya Teknologi,Printer,14822196,14354949,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-032,2026-07-09,2026-07-23,2026-08-05,Budi,Direktur,PT Jaya Teknologi,CCTV,88958420,85022774,Penunjukan Langsung,1,Ya,Ya,Disetujui
+PO-033,2026-09-07,2026-09-16,2026-09-26,Andi,Kepala IT,PT Jaya Teknologi,Lisensi Software,70581964,69654389,Tender,4,Ya,Ya,Disetujui
+PO-034,2026-07-28,2026-08-05,2026-08-31,Budi,Direktur,PT Nusa Network,Printer,6725049,6966874,Tender,4,Ya,Ya,Disetujui
+PO-035,2026-04-01,2026-04-19,2026-05-06,Andi,Manajer Umum,PT Data Prima,Laptop,37258837,35630853,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-036,2026-03-10,2026-03-24,2026-04-21,Dewi,Direktur,PT Jaya Teknologi,Printer,23648794,21511695,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-037,2026-09-10,2026-09-17,2026-09-25,Dewi,Manajer Umum,PT Data Prima,Server,449385612,412923015,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-038,2026-06-22,2026-07-03,2026-07-17,Dewi,Kepala IT,PT Data Prima,Lisensi Software,219872256,223514961,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-039,2026-04-10,2026-04-22,2026-05-09,Andi,Manajer Umum,CV Mitra Digital,Server,368063824,352136617,Tender,4,Ya,Ya,Disetujui
+PO-040,2026-01-13,2026-02-03,2026-02-15,Eko,Manajer Umum,PT Jaya Teknologi,Printer,18573122,17778547,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-041,2026-09-17,2026-10-08,2026-10-23,Eko,Kepala IT,PT Jaya Teknologi,Printer,20975858,21120620,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-042,2026-09-28,2026-10-10,2026-11-07,Dewi,Direktur,CV Karya Komputer,Laptop,13326057,13142729,Tender,2,Ya,Ya,Disetujui
+PO-043,2026-02-17,2026-02-20,2026-03-01,Budi,Manajer Umum,PT Data Prima,Printer,20011242,19431124,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-044,2026-03-16,2026-04-08,2026-04-30,Budi,Kepala IT,PT Jaya Teknologi,CCTV,38930425,40226999,Tender,3,Ya,Ya,Disetujui
+PO-045,2026-02-21,2026-02-27,2026-03-19,Eko,Manajer Umum,PT Jaya Teknologi,Switch/Router,42066729,54686748,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-046,2026-08-23,2026-09-06,2026-09-29,Dewi,Manajer Umum,PT Jaya Teknologi,Printer,8507749,8018068,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-047,2026-04-10,2026-04-15,2026-05-04,Eko,Direktur,PT Jaya Teknologi,Server,320286827,294806828,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-048,2026-06-06,2026-06-29,2026-07-24,Andi,Direktur,PT Nusa Network,CCTV,31597140,30794818,Tender,2,Ya,Ya,Disetujui
+PO-049,2026-02-02,2026-02-21,2026-03-18,Eko,Direktur,PT Data Prima,Lisensi Software,61951904,63942329,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-050,2026-04-06,2026-04-12,2026-04-20,Dewi,Direktur,CV Karya Komputer,CCTV,105105738,99350849,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-051,2026-03-28,2026-04-11,2026-04-24,Andi,Kepala IT,PT Nusa Network,Printer,10146573,9368021,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-052,2026-08-17,2026-09-03,2026-09-28,Eko,Kepala IT,CV Mitra Digital,Laptop,18013475,18111221,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-053,2026-05-01,2026-05-08,2026-05-15,Citra,Manajer Umum,PT Jaya Teknologi,Server,348313684,348469923,Penunjukan Langsung,1,Ya,Ya,Disetujui
+PO-054,2026-05-18,2026-05-29,2026-06-06,Dewi,Manajer Umum,PT Data Prima,CCTV,38375250,37235524,Tender,3,Ya,Ya,Disetujui
+PO-055,2026-06-30,2026-07-03,2026-07-31,Citra,Kepala IT,PT Nusa Network,Printer,17264870,17952306,Tender,3,Ya,Ya,Disetujui
+PO-056,2026-03-25,2026-04-16,2026-05-04,Andi,Direktur,PT Data Prima,CCTV,54665907,50802797,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-057,2026-08-24,2026-09-09,2026-09-16,Eko,Manajer Umum,PT Nusa Network,Laptop,36105686,35017909,Tender,4,Ya,Ya,Disetujui
+PO-058,2026-09-20,2026-10-01,2026-10-17,Citra,Kepala IT,CV Mitra Digital,Laptop,29941240,30289871,Tender,4,Ya,Ya,Disetujui
+PO-059,2026-01-29,2026-02-18,2026-03-19,Citra,Direktur,PT Jaya Teknologi,Laptop,44571658,45762139,Tender,4,Ya,Ya,Disetujui
+PO-060,2026-08-25,2026-09-11,2026-10-05,Dewi,Kepala IT,CV Mitra Digital,Printer,26154472,25727471,Tender,3,Ya,Ya,Disetujui
+PO-061,2026-06-13,2026-07-07,2026-07-25,Budi,Budi,PT Jaya Teknologi,Switch/Router,37858444,36518699,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-062,2026-04-08,2026-04-16,2026-04-30,Eko,Kepala IT,PT Nusa Network,CCTV,112008280,107143852,Tender,3,Ya,Ya,Disetujui
+PO-063,2026-01-26,2026-02-02,2026-03-03,Citra,Kepala IT,CV Karya Komputer,Server,344333729,335442703,Penunjukan Langsung,4,Ya,Ya,Disetujui
+PO-064,2026-07-08,2026-07-23,2026-08-05,Budi,Manajer Umum,PT Data Prima,CCTV,92613009,88538356,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-065,2026-05-22,2026-06-03,2026-06-15,Andi,Kepala IT,PT Jaya Teknologi,Lisensi Software,69984784,71567454,Penunjukan Langsung,4,Ya,Ya,Disetujui
+PO-066,2026-03-27,2026-04-09,2026-04-20,Citra,Direktur,PT Jaya Teknologi,Switch/Router,89486541,84002826,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-067,2026-04-25,2026-04-29,2026-05-20,Citra,Direktur,PT Data Prima,Switch/Router,38120403,35773972,Tender,4,Ya,Tidak,Disetujui
+PO-068,2026-04-20,2026-05-03,2026-05-27,Eko,Kepala IT,PT Nusa Network,Laptop,14410710,14630304,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-069,2026-09-14,2026-09-26,2026-10-04,Citra,Kepala IT,CV Mitra Digital,Switch/Router,116630288,109463503,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-070,2026-09-26,2026-10-05,2026-10-31,Eko,Kepala IT,PT Jaya Teknologi,Switch/Router,34760758,32190485,Tender,2,Ya,Ya,Disetujui
+PO-071,2026-02-19,2026-04-15,2026-03-04,Budi,Direktur,PT Jaya Teknologi,Printer,12920582,12516504,Penunjukan Langsung,4,Ya,Ya,Disetujui
+PO-072,2026-07-11,2026-07-17,2026-08-07,Eko,Kepala IT,PT Nusa Network,Laptop,30263934,30945683,Tender,4,Ya,Ya,Disetujui
+PO-073,2026-09-26,2026-10-03,2026-10-12,Eko,Kepala IT,PT Jaya Teknologi,Laptop,33005215,33527717,Tender,4,Ya,Ya,Disetujui
+PO-074,2026-09-24,2026-10-18,2026-11-02,Dewi,Direktur,PT Nusa Network,Server,145856833,151292073,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-075,2026-04-21,2026-05-05,2026-05-18,Andi,Manajer Umum,PT Nusa Network,Server,397415021,377686905,Tender,4,Ya,Ya,Disetujui
+PO-076,2026-06-01,2026-06-05,2026-06-21,Andi,Manajer Umum,PT Jaya Teknologi,CCTV,105998674,100752025,Tender,2,Ya,Ya,Disetujui
+PO-077,2026-07-26,2026-08-12,2026-08-27,Eko,Kepala IT,PT Jaya Teknologi,Lisensi Software,169057611,174938762,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-078,2026-01-18,2026-02-05,2026-03-02,Budi,Kepala IT,PT Sinar Solusi,Printer,6969921,7108788,Penunjukan Langsung,1,Ya,Ya,Disetujui
+PO-079,2026-05-29,2026-06-03,2026-07-01,Citra,Manajer Umum,PT Nusa Network,CCTV,77829896,79562030,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-080,2026-08-22,2026-09-07,2026-10-04,Budi,Manajer Umum,CV Mitra Digital,Lisensi Software,56227697,57054467,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-081,2026-03-02,2026-03-21,2026-03-31,Budi,Manajer Umum,PT Nusa Network,Printer,9430922,9387079,Tender,4,Ya,Ya,Disetujui
+PO-082,2026-03-10,2026-03-17,2026-04-13,Dewi,Manajer Umum,CV Mitra Digital,Laptop,19221850,19357173,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-083,2026-05-27,2026-05-31,2026-06-26,Budi,Manajer Umum,PT Jaya Teknologi,Switch/Router,75520263,71428852,Tender,2,Ya,Ya,Disetujui
+PO-084,2026-09-11,2026-10-04,2026-10-25,Budi,Kepala IT,CV Mitra Digital,CCTV,54431884,55020596,Tender,3,Ya,Ya,Disetujui
+PO-085,2026-08-17,2026-09-06,2026-09-21,Andi,Direktur,CV Karya Komputer,Switch/Router,49695589,48260520,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-086,2026-06-12,2026-07-01,2026-07-25,Andi,Manajer Umum,PT Data Prima,Laptop,15912901,15202401,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-087,2026-04-28,2026-05-01,2026-05-25,Budi,Kepala IT,PT Jaya Teknologi,Printer,20548469,19479612,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-088,2026-08-12,2026-08-22,2026-09-12,Citra,Direktur,PT Nusa Network,Server,392293363,391142838,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-089,2026-08-10,2026-08-23,2026-09-03,Andi,Manajer Umum,PT Data Prima,Printer,14385152,14204028,Tender,3,Ya,Ya,Disetujui
+PO-090,2026-04-30,2026-05-08,2026-06-01,Budi,Direktur,PT Nusa Network,CCTV,70010614,67241879,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-091,2026-06-23,2026-06-28,2026-07-13,Budi,Direktur,CV Karya Komputer,Laptop,18134148,18833744,Pembelian Langsung,2,Tidak,Ya,Disetujui
+PO-092,2026-05-22,2026-06-04,2026-06-22,Eko,Direktur,PT Jaya Teknologi,CCTV,28986291,26924618,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-093,2026-07-19,2026-07-25,2026-08-21,Budi,Manajer Umum,PT Data Prima,Printer,18764010,18119521,Tender,4,Ya,Ya,Disetujui
+PO-094,2026-03-16,2026-03-19,2026-04-06,Eko,Manajer Umum,CV Mitra Digital,Switch/Router,114655588,116628750,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-095,2026-02-28,2026-03-09,2026-04-07,Andi,Direktur,PT Jaya Teknologi,Server,211847732,195083750,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-096,2026-04-21,2026-04-24,2026-05-06,Budi,Direktur,PT Jaya Teknologi,Server,262419870,247234112,Tender,4,Ya,Ya,Disetujui
+PO-097,2026-06-04,2026-06-27,2026-07-12,Budi,Kepala IT,PT Jaya Teknologi,Switch/Router,120400877,124382368,Tender,4,Ya,Ya,Disetujui
+PO-098,2026-07-14,2026-07-20,2026-08-05,Dewi,Direktur,PT Jaya Teknologi,Printer,17619779,18330537,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-099,2026-10-06,2026-10-11,2026-11-03,Andi,Direktur,PT Sinar Solusi,Server,311194562,322355030,Tender,2,Ya,Ya,Disetujui
+PO-100,2026-05-22,2026-07-09,2026-07-04,Citra,Direktur,PT Data Prima,Switch/Router,132696695,120761655,Penunjukan Langsung,3,Ya,Ya,Disetujui
+PO-101,2026-04-18,2026-04-30,2026-05-22,Dewi,Direktur,PT Sinar Solusi,Lisensi Software,158100216,161567087,Tender,4,Ya,Ya,Disetujui
+PO-102,2026-07-12,2026-07-23,2026-08-08,Eko,Manajer Umum,PT Jaya Teknologi,Server,305133513,317906633,Pembelian Langsung,3,Ya,Tidak,Disetujui
+PO-103,2026-02-08,2026-02-20,2026-03-15,Andi,Kepala IT,PT Data Prima,Laptop,30722977,29430088,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-104,2026-05-25,2026-06-02,2026-06-20,Budi,Manajer Umum,PT Data Prima,Switch/Router,144140127,134701244,Tender,2,Ya,Ya,Disetujui
+PO-105,2026-03-17,2026-03-22,2026-04-20,Dewi,Kepala IT,PT Jaya Teknologi,Switch/Router,44726031,41505112,Penunjukan Langsung,4,Ya,Ya,Disetujui
+PO-106,2026-09-24,2026-10-02,2026-10-24,Budi,Direktur,PT Nusa Network,Lisensi Software,60129569,59329471,Tender,3,Ya,Ya,Disetujui
+PO-107,2026-04-01,2026-04-08,2026-05-01,Budi,Direktur,PT Sinar Solusi,Server,302405270,316152220,Tender,2,Ya,Ya,Disetujui
+PO-108,2026-08-14,2026-08-17,2026-09-11,Citra,Direktur,PT Data Prima,Switch/Router,103625366,108030499,Tender,3,Ya,Ya,Disetujui
+PO-109,2026-07-25,2026-08-09,2026-08-19,Andi,Direktur,PT Jaya Teknologi,Lisensi Software,48128520,43570052,Tender,2,Ya,Ya,Disetujui
+PO-110,2026-09-16,2026-09-23,2026-10-13,Dewi,Direktur,PT Jaya Teknologi,Lisensi Software,75807613,73175671,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-111,2026-09-06,2026-09-15,2026-10-01,Andi,Direktur,PT Jaya Teknologi,Lisensi Software,201233273,183923270,Tender,2,Ya,Ya,Disetujui
+PO-112,2026-07-24,2026-08-15,2026-08-31,Budi,Manajer Umum,PT Jaya Teknologi,CCTV,51013285,47103855,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-113,2026-01-11,2026-01-16,2026-02-14,Budi,Kepala IT,PT Sinar Solusi,Lisensi Software,193241952,191828759,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-114,2026-02-08,2026-03-02,2026-03-16,Andi,Kepala IT,PT Nusa Network,Printer,16950549,15293969,Pembelian Langsung,2,Ya,Ya,Disetujui
+PO-115,2026-07-16,2026-07-19,2026-07-31,Eko,Kepala IT,PT Jaya Teknologi,Printer,24628849,22820067,Pembelian Langsung,4,Ya,Ya,Disetujui
+PO-116,2026-04-16,2026-04-19,2026-05-12,Citra,Direktur,PT Data Prima,Printer,15290750,14920303,Penunjukan Langsung,2,Ya,Ya,Disetujui
+PO-117,2026-08-16,2026-08-25,2026-09-20,Eko,Manajer Umum,PT Jaya Teknologi,Lisensi Software,224698337,212904784,Tender,3,Ya,Ya,Disetujui
+PO-118,2026-07-07,2026-07-21,2026-07-30,Citra,Manajer Umum,PT Sinar Solusi,Switch/Router,130749818,118743578,Pembelian Langsung,3,Ya,Ya,Disetujui
+PO-119,2026-07-16,2026-08-06,2026-09-02,Dewi,Direktur,PT Nusa Network,Server,105103242,101017174,Tender,4,Ya,Ya,Disetujui
+PO-120,2026-10-09,2026-10-16,2026-10-30,Citra,Manajer Umum,CV Mitra Digital,Switch/Router,96841259,97303447,Tender,4,Ya,Ya,Disetujui
+PO-121,2026-06-10,2026-06-12,2026-06-25,Budi,Kepala IT,CV Mitra Digital,Server,48000000,48000000,Pembelian Langsung,1,Ya,Ya,Disetujui
+PO-122,2026-06-10,2026-06-13,2026-06-25,Budi,Kepala IT,CV Mitra Digital,Server,48000000,47500000,Pembelian Langsung,1,Ya,Ya,Disetujui
+PO-123,2026-06-10,2026-06-14,2026-06-25,Budi,Kepala IT,CV Mitra Digital,Server,48000000,47000000,Pembelian Langsung,1,Ya,Ya,Disetujui
+PO-021,2026-06-20,2026-06-25,2026-07-19,Dewi,Direktur,PT Nusa Network,Switch/Router,50309288,51618603,Penunjukan Langsung,3,Ya,Ya,Disetujui
